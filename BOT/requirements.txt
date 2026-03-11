@@ -1,0 +1,8 @@
+aiogram==3.7.0
+groq
+asyncpg
+python-dotenv
+fastapi
+uvicorn
+jinja2
+apscheduler
